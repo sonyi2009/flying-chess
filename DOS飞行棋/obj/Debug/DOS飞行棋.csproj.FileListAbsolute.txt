@@ -1,0 +1,10 @@
+D:\c#\DOS飞行棋\DOS飞行棋\bin\Debug\DOS飞行棋.exe.config
+D:\c#\DOS飞行棋\DOS飞行棋\bin\Debug\DOS飞行棋.exe
+D:\c#\DOS飞行棋\DOS飞行棋\bin\Debug\DOS飞行棋.pdb
+D:\c#\DOS飞行棋\DOS飞行棋\obj\Debug\DOS飞行棋.exe
+D:\c#\DOS飞行棋\DOS飞行棋\obj\Debug\DOS飞行棋.pdb
+D:\c#\DOS飞行棋\DOS飞行棋\bin\Debug\DOS飞行棋.exe.manifest
+D:\c#\DOS飞行棋\DOS飞行棋\bin\Debug\DOS飞行棋.application
+D:\c#\DOS飞行棋\DOS飞行棋\obj\Debug\DOS飞行棋.exe.manifest
+D:\c#\DOS飞行棋\DOS飞行棋\obj\Debug\DOS飞行棋.application
+D:\c#\DOS飞行棋\DOS飞行棋\obj\Debug\DOS飞行棋.csprojResolveAssemblyReference.cache
